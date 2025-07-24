@@ -3,6 +3,11 @@
     "files.associations": {
         "ostream": "cpp",
         "cmath": "cpp",
-        "string": "cpp"
+        "string": "cpp",
+        "array": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "ranges": "cpp",
+        "span": "cpp"
     }
 }
